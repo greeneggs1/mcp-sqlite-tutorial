@@ -1,0 +1,4 @@
+uvicorn
+fastapi
+aiosqlite
+pydantic>=2.0.0
